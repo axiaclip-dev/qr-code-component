@@ -1,0 +1,66 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+  color: hsl(218, 44%, 22%);
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.card {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  max-width: 300px;
+  width: 100%;
+}
+
+.card img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.card .content {
+  margin-top: 20px; /* QRコードの下にスペースを作る */
+}
+
+.card h1 {
+  font-size: 24px; /* デフォルト値または指示書に基づくサイズ */
+  margin: 15px 0;
+}
+
+.card p {
+  font-size: 15px; /* 指示書に基づくサイズ */
+  color: hsl(220, 15%, 55%);
+  line-height: 1.5;
+}
+
+.attribution {
+  font-size: 12px;
+  margin-top: 15px;
+  color: hsl(220, 15%, 55%);
+}
+
+@media (min-width: 1440px) {
+  .card {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 375px) {
+  .card {
+    padding: 15px;
+    font-size: 14px;
+  }
+}
