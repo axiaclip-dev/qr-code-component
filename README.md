@@ -1,6 +1,6 @@
 # QR Code Component
 
-This is a solution to the QR code component challenge on Frontend Mentor. 
+This is a solution to the QR code component challenge on Frontend Mentor.
 
 ## Table of Contents
 
@@ -18,6 +18,10 @@ This project is a simple QR code component built using HTML and CSS. The goal is
 - CSS
 - Flexbox
 - Mobile-first workflow
+
+## Live Site
+
+The live site can be viewed [here](https://axiaclip.github.io/qr-code-component/).
 
 ## Acknowledgments
 
