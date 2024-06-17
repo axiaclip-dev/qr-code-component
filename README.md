@@ -1,26 +1,24 @@
 # QR Code Component
 
-A simple QR code component for improving front-end skills by building projects.
+This is a solution to the QR code component challenge on Frontend Mentor. 
 
-## Description
+## Table of Contents
 
-This project demonstrates the implementation of a QR code image component. It includes a heading and a paragraph with information on how to use the QR code.
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Acknowledgments](#acknowledgments)
 
-## Installation
+## Overview
 
-To run this project locally, follow these steps:
+This project is a simple QR code component built using HTML and CSS. The goal is to practice layout and styling techniques, ensuring the component is responsive and visually appealing.
 
-1. Clone the repository.
-2. Open the index.html file in your web browser.
+## Built With
 
-## Usage
+- HTML
+- CSS
+- Flexbox
+- Mobile-first workflow
 
-Scan the QR code to visit Frontend Mentor and take your coding skills to the next level.
+## Acknowledgments
 
-## Credits
-
-Challenge by Frontend Mentor. Coded by Your Name Here.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project was created as part of the Frontend Mentor challenges. It's a great platform to practice front-end skills and get feedback from the community.
