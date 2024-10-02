@@ -25,7 +25,7 @@ The live site can be viewed [here](https://axiaclip-dev.github.io/qr-code-compon
 
 ### Snapshot
 
-![Demo image](./images/demo/qr-code-component.png)
+![Demo image](./images/demo/snapshot.png)
 
 ## Acknowledgments
 
