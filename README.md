@@ -21,7 +21,7 @@ This project is a simple QR code component built using HTML and CSS. The goal is
 
 ## Live Site
 
-The live site can be viewed [here](https://axiaclip.github.io/qr-code-component/).
+The live site can be viewed [here](https://axiaclip-dev.github.io/qr-code-component/).
 
 ## Acknowledgments
 
